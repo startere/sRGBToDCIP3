@@ -1,2 +1,2 @@
 # sRGBToDCIP3
-Color space transform *without* image restoration
+Simple color space transform using NVTT *without* image restoration.
